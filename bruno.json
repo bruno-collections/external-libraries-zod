@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "External Library - Zod",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
